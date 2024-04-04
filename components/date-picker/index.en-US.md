@@ -9,7 +9,7 @@ demo:
   cols: 2
 ---
 
-## When To Use
+## When To Use 
 
 By clicking the input box, you can select a date from a popup calendar.
 
